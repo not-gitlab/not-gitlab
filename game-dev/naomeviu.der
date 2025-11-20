@@ -1,0 +1,19 @@
+echo "# not-gitlab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:not-gitlab/not-gitlab.git
+git push -u origin main
+
+
+echo "# not-gitlab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:not-gitlab/not-gitlab.git
+git push -u origin main
+
+ git config --global user.email "contesiniallan@gmail.com"
+  git config --global user.name "contesiniallan"

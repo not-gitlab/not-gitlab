@@ -1,0 +1,7 @@
+{
+  "workbench.activityBar.iconClickBehavior": "focus",
+  "workbench.colorTheme": "Default High Contrast",
+  "workbench.preferredDarkColorTheme": "Default High Contrast",
+  "workbench.externalBrowser": "chrome",
+  "deno.enable": true
+}
